@@ -1,7 +1,7 @@
 # NetSec Challenge by THM (Write-Up) 
 
 by politelychaotic
-July 15, 2024 @ 7:50pm
+July 15, 2024
 
 ## Task 1: Start up the Attackbox/VM of Kali and the target VM
 
